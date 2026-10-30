@@ -627,7 +627,7 @@ def write_stats(df_FC_pat, mode_probabilities_2, df_p_inv, df_p_val_size, df_p_z
         df_stats.to_csv(sample_out + "/Stats.csv")
 
         # Generate Statsplot
-        sns.set_theme()
+        sns.set_theme(style='white')
         df1 = df_stats.T
         df2 = df1.iloc[:, :]
         

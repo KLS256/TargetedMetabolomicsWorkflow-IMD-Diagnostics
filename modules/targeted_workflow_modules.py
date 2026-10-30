@@ -306,7 +306,7 @@ def analyze_cohort_distribution(sample_ids):
         DataFrame with batch statistics
     """
     # Set the seaborn theme
-    sns.set_theme()
+    sns.set_theme(style='white')
     
     # Create a DataFrame from the sample IDs
     df = pd.DataFrame({'sample_id': sample_ids})
