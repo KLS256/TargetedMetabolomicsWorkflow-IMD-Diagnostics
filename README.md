@@ -152,4 +152,4 @@ If you use this code, please cite the paper above.
 
 ## License
 
-MIT License. Copyright (c) 2026 Kim L. Stocker, Martin Poms.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
