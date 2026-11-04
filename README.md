@@ -2,7 +2,7 @@
 
 Supplementary code for:
 
-> Stocker KL, Poms M, et al. *Leveraging control cohorts in metabolomics to overcome sample size limitations in detecting inherited metabolic disorders.* Clinical Chemistry and Laboratory Medicine (CCLM), 2026.
+> Stocker KL, Poms M, et al. *Improving the detection of inherited metabolic disorders by leveraging control cohorts in metabolomics to overcome sample size limitations.* Clinical Chemistry and Laboratory Medicine (CCLM), 2026.
 
 ---
 
