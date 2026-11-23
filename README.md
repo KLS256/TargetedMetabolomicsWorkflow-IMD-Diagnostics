@@ -69,6 +69,7 @@ matplotlib==3.9.0
 seaborn==0.13.2
 mplcursors==0.6
 distfit==1.8.0
+PyQt5==5.15.10
 ```
 
 ---
