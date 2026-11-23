@@ -71,12 +71,6 @@ mplcursors==0.6
 distfit==1.8.0
 ```
 
-Install with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## File structure
